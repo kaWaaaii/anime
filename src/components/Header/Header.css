@@ -1,0 +1,16 @@
+.Header {
+}
+
+.Header nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.Header nav ul li {
+    padding: 0 20px;
+}
+
+.Header nav ul li a {
+    text-decoration: none;
+}

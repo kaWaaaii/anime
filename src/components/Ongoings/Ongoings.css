@@ -1,0 +1,13 @@
+.Ongoings {
+    text-align: center;
+}
+
+.Ongoings__images {
+    display: flex;
+    flex-direction: row;
+}
+
+.Ongoings__images img {
+    margin: 0 10px;
+    width: 215px;
+}

@@ -1,0 +1,13 @@
+.MostPopular {
+    text-align: center;
+}
+
+.MostPopular__images {
+    display: flex;
+    flex-direction: row;
+}
+
+.MostPopular__images img {
+    margin: 0 10px;
+    width: 215px;
+}
